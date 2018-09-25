@@ -1,0 +1,1 @@
+MAin-Class: ru.ifmo.rain.Abramov.implementor.Implementor
